@@ -1,6 +1,6 @@
-# Second lecture Demo
+# First lecture Demo
 
-This is a project for the second lecture (Node JS basics)
+This is a project for the first lecture (Node JS basics)
 
 It includes your home task.
 
